@@ -4,6 +4,10 @@ body {
   font-size: 18px;
 }
 
+ul {
+  font-size: 1em;
+}
+
 h1, 
 h2, 
 strong {
